@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f7ff;
+  text-align: center;
+}
+
+header {
+  background: linear-gradient(90deg,#002f6c,#0059b3);
+  color: white;
+  padding: 20px;
+}
+
+.logo {
+  width: 60px;
+}
+
+.lang button {
+  margin: 5px;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.card {
+  background: white;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.gallery img {
+  width: 30%;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+form input {
+  width: 80%;
+  padding: 10px;
+  margin: 8px;
+}
+
+form button, .whatsapp {
+  background: #25d366;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  margin-top: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+footer {
+  background: #222;
+  color: white;
+  padding: 10px;
+}
